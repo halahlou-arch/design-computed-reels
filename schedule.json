@@ -1,0 +1,5 @@
+{
+ "note": "Posting times for Design Computed (Morocco clock = GMT). Read by the Google Apps Script DC Publisher Alarm.",
+ "evening": ["14:00", "14:15", "14:30"],
+ "morning": ["09:00", "09:15", "09:30"]
+}
