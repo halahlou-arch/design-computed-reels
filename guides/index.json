@@ -1,0 +1,41 @@
+{
+ "by_media": {
+  "18134438470725215": {
+   "name": "06-bones",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/06-bones.pdf",
+   "subject": "topology optimisation",
+   "title": "Topology optimisation: let the forces draw the structure",
+   "date": "2026-10-16"
+  },
+  "18186122290422476": {
+   "name": "20-algae-facade",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/20-algae-facade.pdf",
+   "subject": "Algae facades: a wall that grows its own heat and harvest",
+   "title": "Algae facades: a wall that grows its own heat and harvest",
+   "date": "2026-10-17"
+  }
+ },
+ "list": [
+  {
+   "name": "20-algae-facade",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/20-algae-facade.pdf",
+   "subject": "Algae facades: a wall that grows its own heat and harvest",
+   "title": "Algae facades: a wall that grows its own heat and harvest",
+   "date": "2026-10-17"
+  },
+  {
+   "name": "06-bones",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/06-bones.pdf",
+   "subject": "topology optimisation",
+   "title": "Topology optimisation: let the forces draw the structure",
+   "date": "2026-10-16"
+  }
+ ],
+ "latest": {
+  "name": "20-algae-facade",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/20-algae-facade.pdf",
+  "subject": "Algae facades: a wall that grows its own heat and harvest",
+  "title": "Algae facades: a wall that grows its own heat and harvest",
+  "date": "2026-10-17"
+ }
+}
