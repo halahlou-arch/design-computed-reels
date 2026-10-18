@@ -20,9 +20,23 @@
    "subject": "how a burned monument is rebuilt",
    "title": "How a burned monument is rebuilt",
    "date": "2026-10-18"
+  },
+  "18100729298552576": {
+   "name": "14-bilbao-catia",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/14-bilbao-catia.pdf",
+   "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
+   "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
+   "date": "2026-10-18"
   }
  },
  "list": [
+  {
+   "name": "14-bilbao-catia",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/14-bilbao-catia.pdf",
+   "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
+   "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
+   "date": "2026-10-18"
+  },
   {
    "name": "30-limoges-town-hall",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/30-limoges-town-hall.pdf",
@@ -46,10 +60,10 @@
   }
  ],
  "latest": {
-  "name": "30-limoges-town-hall",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/30-limoges-town-hall.pdf",
-  "subject": "how a burned monument is rebuilt",
-  "title": "How a burned monument is rebuilt",
+  "name": "14-bilbao-catia",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/14-bilbao-catia.pdf",
+  "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
+  "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
   "date": "2026-10-18"
  }
 }
