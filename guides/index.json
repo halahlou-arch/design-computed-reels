@@ -13,9 +13,23 @@
    "subject": "Algae facades: a wall that grows its own heat and harvest",
    "title": "Algae facades: a wall that grows its own heat and harvest",
    "date": "2026-10-17"
+  },
+  "17987741259082352": {
+   "name": "30-limoges-town-hall",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/30-limoges-town-hall.pdf",
+   "subject": "how a burned monument is rebuilt",
+   "title": "How a burned monument is rebuilt",
+   "date": "2026-10-18"
   }
  },
  "list": [
+  {
+   "name": "30-limoges-town-hall",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/30-limoges-town-hall.pdf",
+   "subject": "how a burned monument is rebuilt",
+   "title": "How a burned monument is rebuilt",
+   "date": "2026-10-18"
+  },
   {
    "name": "20-algae-facade",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/20-algae-facade.pdf",
@@ -32,10 +46,10 @@
   }
  ],
  "latest": {
-  "name": "20-algae-facade",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/20-algae-facade.pdf",
-  "subject": "Algae facades: a wall that grows its own heat and harvest",
-  "title": "Algae facades: a wall that grows its own heat and harvest",
-  "date": "2026-10-17"
+  "name": "30-limoges-town-hall",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/30-limoges-town-hall.pdf",
+  "subject": "how a burned monument is rebuilt",
+  "title": "How a burned monument is rebuilt",
+  "date": "2026-10-18"
  }
 }
