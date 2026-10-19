@@ -27,9 +27,23 @@
    "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
    "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
    "date": "2026-10-18"
+  },
+  "17988084809877453": {
+   "name": "22-djenne",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/22-djenne.pdf",
+   "subject": "Design for repair: the mud mosque that is rebuilt every year",
+   "title": "Design for repair: the mud mosque that is rebuilt every year",
+   "date": "2026-10-19"
   }
  },
  "list": [
+  {
+   "name": "22-djenne",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/22-djenne.pdf",
+   "subject": "Design for repair: the mud mosque that is rebuilt every year",
+   "title": "Design for repair: the mud mosque that is rebuilt every year",
+   "date": "2026-10-19"
+  },
   {
    "name": "14-bilbao-catia",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/14-bilbao-catia.pdf",
@@ -60,10 +74,10 @@
   }
  ],
  "latest": {
-  "name": "14-bilbao-catia",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/14-bilbao-catia.pdf",
-  "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
-  "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
-  "date": "2026-10-18"
+  "name": "22-djenne",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/22-djenne.pdf",
+  "subject": "Design for repair: the mud mosque that is rebuilt every year",
+  "title": "Design for repair: the mud mosque that is rebuilt every year",
+  "date": "2026-10-19"
  }
 }

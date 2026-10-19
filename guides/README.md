@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Design for repair: the mud mosque that is rebuilt every year](22-djenne.pdf) · 2026-10-19
 - [Borrow a tool: how aerospace software made a crumpled-paper building](14-bilbao-catia.pdf) · 2026-10-18
 - [How a burned monument is rebuilt](30-limoges-town-hall.pdf) · 2026-10-18
 - [Algae facades: a wall that grows its own heat and harvest](20-algae-facade.pdf) · 2026-10-17
