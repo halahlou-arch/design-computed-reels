@@ -6,7 +6,8 @@
    "subject": "topology optimisation",
    "title": "Topology optimisation: let the forces draw the structure",
    "date": "2026-10-16",
-   "pages": 5
+   "pages": 5,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/06-bones/"
   },
   "18186122290422476": {
    "name": "20-algae-facade",
@@ -14,7 +15,8 @@
    "subject": "Algae facades: a wall that grows its own heat and harvest",
    "title": "Algae facades: a wall that grows its own heat and harvest",
    "date": "2026-10-17",
-   "pages": 4
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/20-algae-facade/"
   },
   "17987741259082352": {
    "name": "30-limoges-town-hall",
@@ -22,7 +24,8 @@
    "subject": "how a burned monument is rebuilt",
    "title": "How a burned monument is rebuilt",
    "date": "2026-10-18",
-   "pages": 5
+   "pages": 5,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/30-limoges-town-hall/"
   },
   "18100729298552576": {
    "name": "14-bilbao-catia",
@@ -30,7 +33,8 @@
    "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
    "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
    "date": "2026-10-18",
-   "pages": 4
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/14-bilbao-catia/"
   },
   "17988084809877453": {
    "name": "22-djenne",
@@ -38,7 +42,8 @@
    "subject": "Design for repair: the mud mosque that is rebuilt every year",
    "title": "Design for repair: the mud mosque that is rebuilt every year",
    "date": "2026-10-19",
-   "pages": 3
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/22-djenne/"
   },
   "17968899435190434": {
    "name": "18-fibonacci",
@@ -46,7 +51,8 @@
    "subject": "The golden angle: the turn that fills every gap",
    "title": "The golden angle: the turn that fills every gap",
    "date": "2026-10-20",
-   "pages": 3
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/18-fibonacci/"
   },
   "18099531701425024": {
    "name": "25-gherkin",
@@ -54,7 +60,8 @@
    "subject": "Round the corners: how a tower tames the wind",
    "title": "Round the corners: how a tower tames the wind",
    "date": "2026-10-20",
-   "pages": 3
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/25-gherkin/"
   }
  },
  "list": [
@@ -64,7 +71,8 @@
    "subject": "Round the corners: how a tower tames the wind",
    "title": "Round the corners: how a tower tames the wind",
    "date": "2026-10-20",
-   "pages": 3
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/25-gherkin/"
   },
   {
    "name": "18-fibonacci",
@@ -72,7 +80,8 @@
    "subject": "The golden angle: the turn that fills every gap",
    "title": "The golden angle: the turn that fills every gap",
    "date": "2026-10-20",
-   "pages": 3
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/18-fibonacci/"
   },
   {
    "name": "22-djenne",
@@ -80,7 +89,8 @@
    "subject": "Design for repair: the mud mosque that is rebuilt every year",
    "title": "Design for repair: the mud mosque that is rebuilt every year",
    "date": "2026-10-19",
-   "pages": 3
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/22-djenne/"
   },
   {
    "name": "14-bilbao-catia",
@@ -88,7 +98,8 @@
    "subject": "Borrow a tool: how aerospace software made a crumpled-paper building",
    "title": "Borrow a tool: how aerospace software made a crumpled-paper building",
    "date": "2026-10-18",
-   "pages": 4
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/14-bilbao-catia/"
   },
   {
    "name": "30-limoges-town-hall",
@@ -96,7 +107,8 @@
    "subject": "how a burned monument is rebuilt",
    "title": "How a burned monument is rebuilt",
    "date": "2026-10-18",
-   "pages": 5
+   "pages": 5,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/30-limoges-town-hall/"
   },
   {
    "name": "20-algae-facade",
@@ -104,7 +116,8 @@
    "subject": "Algae facades: a wall that grows its own heat and harvest",
    "title": "Algae facades: a wall that grows its own heat and harvest",
    "date": "2026-10-17",
-   "pages": 4
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/20-algae-facade/"
   },
   {
    "name": "06-bones",
@@ -112,7 +125,8 @@
    "subject": "topology optimisation",
    "title": "Topology optimisation: let the forces draw the structure",
    "date": "2026-10-16",
-   "pages": 5
+   "pages": 5,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/06-bones/"
   }
  ],
  "latest": {
@@ -121,6 +135,7 @@
   "subject": "Round the corners: how a tower tames the wind",
   "title": "Round the corners: how a tower tames the wind",
   "date": "2026-10-20",
-  "pages": 3
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/25-gherkin/"
  }
 }
