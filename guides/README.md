@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Round the corners: how a tower tames the wind](25-gherkin.pdf) · 2026-10-20
 - [The golden angle: the turn that fills every gap](18-fibonacci.pdf) · 2026-10-20
 - [Design for repair: the mud mosque that is rebuilt every year](22-djenne.pdf) · 2026-10-19
 - [Borrow a tool: how aerospace software made a crumpled-paper building](14-bilbao-catia.pdf) · 2026-10-18

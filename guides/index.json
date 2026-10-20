@@ -41,9 +41,23 @@
    "subject": "The golden angle: the turn that fills every gap",
    "title": "The golden angle: the turn that fills every gap",
    "date": "2026-10-20"
+  },
+  "18099531701425024": {
+   "name": "25-gherkin",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/25-gherkin.pdf",
+   "subject": "Round the corners: how a tower tames the wind",
+   "title": "Round the corners: how a tower tames the wind",
+   "date": "2026-10-20"
   }
  },
  "list": [
+  {
+   "name": "25-gherkin",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/25-gherkin.pdf",
+   "subject": "Round the corners: how a tower tames the wind",
+   "title": "Round the corners: how a tower tames the wind",
+   "date": "2026-10-20"
+  },
   {
    "name": "18-fibonacci",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/18-fibonacci.pdf",
@@ -88,10 +102,10 @@
   }
  ],
  "latest": {
-  "name": "18-fibonacci",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/18-fibonacci.pdf",
-  "subject": "The golden angle: the turn that fills every gap",
-  "title": "The golden angle: the turn that fills every gap",
+  "name": "25-gherkin",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/25-gherkin.pdf",
+  "subject": "Round the corners: how a tower tames the wind",
+  "title": "Round the corners: how a tower tames the wind",
   "date": "2026-10-20"
  }
 }
