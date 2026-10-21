@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Learn from a moth: building a pavilion with no mould](23-moth-robots.pdf) · 2026-10-21
 - [Round the corners: how a tower tames the wind](25-gherkin.pdf) · 2026-10-20
 - [The golden angle: the turn that fills every gap](18-fibonacci.pdf) · 2026-10-20
 - [Design for repair: the mud mosque that is rebuilt every year](22-djenne.pdf) · 2026-10-19

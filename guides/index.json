@@ -62,9 +62,27 @@
    "date": "2026-10-20",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/25-gherkin/"
+  },
+  "18207843847365878": {
+   "name": "23-moth-robots",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/23-moth-robots.pdf",
+   "subject": "Learn from a moth: building a pavilion with no mould",
+   "title": "Learn from a moth: building a pavilion with no mould",
+   "date": "2026-10-21",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/23-moth-robots/"
   }
  },
  "list": [
+  {
+   "name": "23-moth-robots",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/23-moth-robots.pdf",
+   "subject": "Learn from a moth: building a pavilion with no mould",
+   "title": "Learn from a moth: building a pavilion with no mould",
+   "date": "2026-10-21",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/23-moth-robots/"
+  },
   {
    "name": "25-gherkin",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/25-gherkin.pdf",
@@ -130,12 +148,12 @@
   }
  ],
  "latest": {
-  "name": "25-gherkin",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/25-gherkin.pdf",
-  "subject": "Round the corners: how a tower tames the wind",
-  "title": "Round the corners: how a tower tames the wind",
-  "date": "2026-10-20",
+  "name": "23-moth-robots",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/23-moth-robots.pdf",
+  "subject": "Learn from a moth: building a pavilion with no mould",
+  "title": "Learn from a moth: building a pavilion with no mould",
+  "date": "2026-10-21",
   "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/25-gherkin/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/23-moth-robots/"
  }
 }
