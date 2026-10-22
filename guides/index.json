@@ -71,9 +71,27 @@
    "date": "2026-10-21",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/23-moth-robots/"
+  },
+  "18193797289401023": {
+   "name": "28-lotus-temple",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/28-lotus-temple.pdf",
+   "subject": "From curve to equation: how the Lotus Temple was made buildable",
+   "title": "From curve to equation: how the Lotus Temple was made buildable",
+   "date": "2026-10-22",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/28-lotus-temple/"
   }
  },
  "list": [
+  {
+   "name": "28-lotus-temple",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/28-lotus-temple.pdf",
+   "subject": "From curve to equation: how the Lotus Temple was made buildable",
+   "title": "From curve to equation: how the Lotus Temple was made buildable",
+   "date": "2026-10-22",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/28-lotus-temple/"
+  },
   {
    "name": "23-moth-robots",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/23-moth-robots.pdf",
@@ -148,12 +166,12 @@
   }
  ],
  "latest": {
-  "name": "23-moth-robots",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/23-moth-robots.pdf",
-  "subject": "Learn from a moth: building a pavilion with no mould",
-  "title": "Learn from a moth: building a pavilion with no mould",
-  "date": "2026-10-21",
-  "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/23-moth-robots/"
+  "name": "28-lotus-temple",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/28-lotus-temple.pdf",
+  "subject": "From curve to equation: how the Lotus Temple was made buildable",
+  "title": "From curve to equation: how the Lotus Temple was made buildable",
+  "date": "2026-10-22",
+  "pages": 4,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/28-lotus-temple/"
  }
 }
