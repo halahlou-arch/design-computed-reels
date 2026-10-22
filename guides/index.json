@@ -80,9 +80,27 @@
    "date": "2026-10-22",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/28-lotus-temple/"
+  },
+  "18117180640994697": {
+   "name": "11-can-ai-design",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/11-can-ai-design.pdf",
+   "subject": "Can AI design a building? The four checks every design must pass",
+   "title": "Can AI design a building? The four checks every design must pass",
+   "date": "2026-10-22",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/11-can-ai-design/"
   }
  },
  "list": [
+  {
+   "name": "11-can-ai-design",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/11-can-ai-design.pdf",
+   "subject": "Can AI design a building? The four checks every design must pass",
+   "title": "Can AI design a building? The four checks every design must pass",
+   "date": "2026-10-22",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/11-can-ai-design/"
+  },
   {
    "name": "28-lotus-temple",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/28-lotus-temple.pdf",
@@ -166,12 +184,12 @@
   }
  ],
  "latest": {
-  "name": "28-lotus-temple",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/28-lotus-temple.pdf",
-  "subject": "From curve to equation: how the Lotus Temple was made buildable",
-  "title": "From curve to equation: how the Lotus Temple was made buildable",
+  "name": "11-can-ai-design",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/11-can-ai-design.pdf",
+  "subject": "Can AI design a building? The four checks every design must pass",
+  "title": "Can AI design a building? The four checks every design must pass",
   "date": "2026-10-22",
-  "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/28-lotus-temple/"
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/11-can-ai-design/"
  }
 }

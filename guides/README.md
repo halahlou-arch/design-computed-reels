@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Can AI design a building? The four checks every design must pass](11-can-ai-design.pdf) · 2026-10-22
 - [From curve to equation: how the Lotus Temple was made buildable](28-lotus-temple.pdf) · 2026-10-22
 - [Learn from a moth: building a pavilion with no mould](23-moth-robots.pdf) · 2026-10-21
 - [Round the corners: how a tower tames the wind](25-gherkin.pdf) · 2026-10-20
