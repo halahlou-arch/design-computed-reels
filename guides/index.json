@@ -89,9 +89,27 @@
    "date": "2026-10-22",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/11-can-ai-design/"
+  },
+  "18636101698026974": {
+   "name": "33-taipei-damper",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/33-taipei-damper.pdf",
+   "subject": "Fight motion with motion: the tuned mass damper",
+   "title": "Fight motion with motion: the tuned mass damper",
+   "date": "2026-10-23",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/33-taipei-damper/"
   }
  },
  "list": [
+  {
+   "name": "33-taipei-damper",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/33-taipei-damper.pdf",
+   "subject": "Fight motion with motion: the tuned mass damper",
+   "title": "Fight motion with motion: the tuned mass damper",
+   "date": "2026-10-23",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/33-taipei-damper/"
+  },
   {
    "name": "11-can-ai-design",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/11-can-ai-design.pdf",
@@ -184,12 +202,12 @@
   }
  ],
  "latest": {
-  "name": "11-can-ai-design",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/11-can-ai-design.pdf",
-  "subject": "Can AI design a building? The four checks every design must pass",
-  "title": "Can AI design a building? The four checks every design must pass",
-  "date": "2026-10-22",
-  "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/11-can-ai-design/"
+  "name": "33-taipei-damper",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/33-taipei-damper.pdf",
+  "subject": "Fight motion with motion: the tuned mass damper",
+  "title": "Fight motion with motion: the tuned mass damper",
+  "date": "2026-10-23",
+  "pages": 4,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/33-taipei-damper/"
  }
 }
