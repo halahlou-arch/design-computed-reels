@@ -98,9 +98,27 @@
    "date": "2026-10-23",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/33-taipei-damper/"
+  },
+  "18107159318211475": {
+   "name": "37-pisa-tower",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/37-pisa-tower.pdf",
+   "subject": "Move the ground, not the tower: how Pisa was saved",
+   "title": "Move the ground, not the tower: how Pisa was saved",
+   "date": "2026-10-23",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/37-pisa-tower/"
   }
  },
  "list": [
+  {
+   "name": "37-pisa-tower",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/37-pisa-tower.pdf",
+   "subject": "Move the ground, not the tower: how Pisa was saved",
+   "title": "Move the ground, not the tower: how Pisa was saved",
+   "date": "2026-10-23",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/37-pisa-tower/"
+  },
   {
    "name": "33-taipei-damper",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/33-taipei-damper.pdf",
@@ -202,12 +220,12 @@
   }
  ],
  "latest": {
-  "name": "33-taipei-damper",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/33-taipei-damper.pdf",
-  "subject": "Fight motion with motion: the tuned mass damper",
-  "title": "Fight motion with motion: the tuned mass damper",
+  "name": "37-pisa-tower",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/37-pisa-tower.pdf",
+  "subject": "Move the ground, not the tower: how Pisa was saved",
+  "title": "Move the ground, not the tower: how Pisa was saved",
   "date": "2026-10-23",
   "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/33-taipei-damper/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/37-pisa-tower/"
  }
 }
