@@ -107,9 +107,27 @@
    "date": "2026-10-23",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/37-pisa-tower/"
+  },
+  "18126515500684562": {
+   "name": "35-brunelleschi-dome",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/35-brunelleschi-dome.pdf",
+   "subject": "Let the pattern hold itself: Brunelleschi's herringbone dome",
+   "title": "Let the pattern hold itself: Brunelleschi's herringbone dome",
+   "date": "2026-10-25",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/35-brunelleschi-dome/"
   }
  },
  "list": [
+  {
+   "name": "35-brunelleschi-dome",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/35-brunelleschi-dome.pdf",
+   "subject": "Let the pattern hold itself: Brunelleschi's herringbone dome",
+   "title": "Let the pattern hold itself: Brunelleschi's herringbone dome",
+   "date": "2026-10-25",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/35-brunelleschi-dome/"
+  },
   {
    "name": "37-pisa-tower",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/37-pisa-tower.pdf",
@@ -220,12 +238,12 @@
   }
  ],
  "latest": {
-  "name": "37-pisa-tower",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/37-pisa-tower.pdf",
-  "subject": "Move the ground, not the tower: how Pisa was saved",
-  "title": "Move the ground, not the tower: how Pisa was saved",
-  "date": "2026-10-23",
+  "name": "35-brunelleschi-dome",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/35-brunelleschi-dome.pdf",
+  "subject": "Let the pattern hold itself: Brunelleschi's herringbone dome",
+  "title": "Let the pattern hold itself: Brunelleschi's herringbone dome",
+  "date": "2026-10-25",
   "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/37-pisa-tower/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/35-brunelleschi-dome/"
  }
 }
