@@ -116,9 +116,27 @@
    "date": "2026-10-25",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/35-brunelleschi-dome/"
+  },
+  "18220503562347272": {
+   "name": "36-tacoma-narrows",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/36-tacoma-narrows.pdf",
+   "subject": "Let the wind through: what Tacoma Narrows taught bridge design",
+   "title": "Let the wind through: what Tacoma Narrows taught bridge design",
+   "date": "2026-10-26",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/36-tacoma-narrows/"
   }
  },
  "list": [
+  {
+   "name": "36-tacoma-narrows",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/36-tacoma-narrows.pdf",
+   "subject": "Let the wind through: what Tacoma Narrows taught bridge design",
+   "title": "Let the wind through: what Tacoma Narrows taught bridge design",
+   "date": "2026-10-26",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/36-tacoma-narrows/"
+  },
   {
    "name": "35-brunelleschi-dome",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/35-brunelleschi-dome.pdf",
@@ -238,12 +256,12 @@
   }
  ],
  "latest": {
-  "name": "35-brunelleschi-dome",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/35-brunelleschi-dome.pdf",
-  "subject": "Let the pattern hold itself: Brunelleschi's herringbone dome",
-  "title": "Let the pattern hold itself: Brunelleschi's herringbone dome",
-  "date": "2026-10-25",
+  "name": "36-tacoma-narrows",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/36-tacoma-narrows.pdf",
+  "subject": "Let the wind through: what Tacoma Narrows taught bridge design",
+  "title": "Let the wind through: what Tacoma Narrows taught bridge design",
+  "date": "2026-10-26",
   "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/35-brunelleschi-dome/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/36-tacoma-narrows/"
  }
 }

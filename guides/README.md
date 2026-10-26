@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Let the wind through: what Tacoma Narrows taught bridge design](36-tacoma-narrows.pdf) · 2026-10-26
 - [Let the pattern hold itself: Brunelleschi's herringbone dome](35-brunelleschi-dome.pdf) · 2026-10-25
 - [Move the ground, not the tower: how Pisa was saved](37-pisa-tower.pdf) · 2026-10-23
 - [Fight motion with motion: the tuned mass damper](33-taipei-damper.pdf) · 2026-10-23
