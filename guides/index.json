@@ -125,9 +125,27 @@
    "date": "2026-10-26",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/36-tacoma-narrows/"
+  },
+  "18117470614826134": {
+   "name": "40-hoover-cooling",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/40-hoover-cooling.pdf",
+   "subject": "Cut it into blocks: how Hoover Dam was cooled",
+   "title": "Cut it into blocks: how Hoover Dam was cooled",
+   "date": "2026-10-26",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/40-hoover-cooling/"
   }
  },
  "list": [
+  {
+   "name": "40-hoover-cooling",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/40-hoover-cooling.pdf",
+   "subject": "Cut it into blocks: how Hoover Dam was cooled",
+   "title": "Cut it into blocks: how Hoover Dam was cooled",
+   "date": "2026-10-26",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/40-hoover-cooling/"
+  },
   {
    "name": "36-tacoma-narrows",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/36-tacoma-narrows.pdf",
@@ -256,12 +274,12 @@
   }
  ],
  "latest": {
-  "name": "36-tacoma-narrows",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/36-tacoma-narrows.pdf",
-  "subject": "Let the wind through: what Tacoma Narrows taught bridge design",
-  "title": "Let the wind through: what Tacoma Narrows taught bridge design",
+  "name": "40-hoover-cooling",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/40-hoover-cooling.pdf",
+  "subject": "Cut it into blocks: how Hoover Dam was cooled",
+  "title": "Cut it into blocks: how Hoover Dam was cooled",
   "date": "2026-10-26",
-  "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/36-tacoma-narrows/"
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/40-hoover-cooling/"
  }
 }
