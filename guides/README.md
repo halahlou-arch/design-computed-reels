@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Tune it, don't replace it: how Big Ben is kept on time with pennies](42-bigben-pennies.pdf) · 2026-10-27
 - [Cut it into blocks: how Hoover Dam was cooled](40-hoover-cooling.pdf) · 2026-10-26
 - [Let the wind through: what Tacoma Narrows taught bridge design](36-tacoma-narrows.pdf) · 2026-10-26
 - [Let the pattern hold itself: Brunelleschi's herringbone dome](35-brunelleschi-dome.pdf) · 2026-10-25

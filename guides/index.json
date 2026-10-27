@@ -134,9 +134,27 @@
    "date": "2026-10-26",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/40-hoover-cooling/"
+  },
+  "18168747382465105": {
+   "name": "42-bigben-pennies",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/42-bigben-pennies.pdf",
+   "subject": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
+   "title": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
+   "date": "2026-10-27",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/42-bigben-pennies/"
   }
  },
  "list": [
+  {
+   "name": "42-bigben-pennies",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/42-bigben-pennies.pdf",
+   "subject": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
+   "title": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
+   "date": "2026-10-27",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/42-bigben-pennies/"
+  },
   {
    "name": "40-hoover-cooling",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/40-hoover-cooling.pdf",
@@ -274,12 +292,12 @@
   }
  ],
  "latest": {
-  "name": "40-hoover-cooling",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/40-hoover-cooling.pdf",
-  "subject": "Cut it into blocks: how Hoover Dam was cooled",
-  "title": "Cut it into blocks: how Hoover Dam was cooled",
-  "date": "2026-10-26",
+  "name": "42-bigben-pennies",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/42-bigben-pennies.pdf",
+  "subject": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
+  "title": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
+  "date": "2026-10-27",
   "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/40-hoover-cooling/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/42-bigben-pennies/"
  }
 }
