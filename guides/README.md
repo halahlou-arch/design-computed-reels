@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof](44-notre-dame-scan.pdf) · 2026-10-28
 - [The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them](43-soft-story.pdf) · 2026-10-28
 - [Tune it, don't replace it: how Big Ben is kept on time with pennies](42-bigben-pennies.pdf) · 2026-10-27
 - [Cut it into blocks: how Hoover Dam was cooled](40-hoover-cooling.pdf) · 2026-10-26

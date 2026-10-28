@@ -152,9 +152,27 @@
    "date": "2026-10-28",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/43-soft-story/"
+  },
+  "17933667495419607": {
+   "name": "44-notre-dame-scan",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/44-notre-dame-scan.pdf",
+   "subject": "Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof",
+   "title": "Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof",
+   "date": "2026-10-28",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/44-notre-dame-scan/"
   }
  },
  "list": [
+  {
+   "name": "44-notre-dame-scan",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/44-notre-dame-scan.pdf",
+   "subject": "Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof",
+   "title": "Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof",
+   "date": "2026-10-28",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/44-notre-dame-scan/"
+  },
   {
    "name": "43-soft-story",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/43-soft-story.pdf",
@@ -310,12 +328,12 @@
   }
  ],
  "latest": {
-  "name": "43-soft-story",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/43-soft-story.pdf",
-  "subject": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
-  "title": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+  "name": "44-notre-dame-scan",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/44-notre-dame-scan.pdf",
+  "subject": "Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof",
+  "title": "Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof",
   "date": "2026-10-28",
   "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/43-soft-story/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/44-notre-dame-scan/"
  }
 }
