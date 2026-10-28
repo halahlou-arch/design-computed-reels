@@ -143,9 +143,27 @@
    "date": "2026-10-27",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/42-bigben-pennies/"
+  },
+  "17953411128290262": {
+   "name": "43-soft-story",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/43-soft-story.pdf",
+   "subject": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+   "title": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+   "date": "2026-10-28",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/43-soft-story/"
   }
  },
  "list": [
+  {
+   "name": "43-soft-story",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/43-soft-story.pdf",
+   "subject": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+   "title": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+   "date": "2026-10-28",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/43-soft-story/"
+  },
   {
    "name": "42-bigben-pennies",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/42-bigben-pennies.pdf",
@@ -292,12 +310,12 @@
   }
  ],
  "latest": {
-  "name": "42-bigben-pennies",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/42-bigben-pennies.pdf",
-  "subject": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
-  "title": "Tune it, don't replace it: how Big Ben is kept on time with pennies",
-  "date": "2026-10-27",
-  "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/42-bigben-pennies/"
+  "name": "43-soft-story",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/43-soft-story.pdf",
+  "subject": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+  "title": "The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them",
+  "date": "2026-10-28",
+  "pages": 4,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/43-soft-story/"
  }
 }
