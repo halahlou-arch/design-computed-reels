@@ -1,10 +1,11 @@
 {
- "note": "Posting times for Design Computed (Morocco clock = GMT). Read by the Google Apps Script DC Publisher Alarm. evening = Instagram, Facebook, YouTube + the reel's story (2 reels a day since 2026-10-20: 08:00 and 13:00, story run 30 min later); morning = TikTok drafts (07:00 and 12:00).",
+ "note": "Posting times for Design Computed (Morocco clock = GMT). Read by the Google Apps Script DC Publisher Alarm. evening = Instagram, Facebook, YouTube + the reel's story (2 reels a day since 2026-10-20: 08:00 and 13:00, story run 30 min later); morning = TikTok drafts (07:00 and 12:00). 17:00 = backup slot (added 2026-10-28; posts only a reel whose 08:00/13:00 slot was missed).",
  "evening": [
   "08:00",
   "08:30",
   "13:00",
-  "13:30"
+  "13:30",
+  "17:00"
  ],
  "morning": [
   "07:00",
