@@ -170,9 +170,27 @@
    "date": "2026-10-29",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/45-shah-muqarnas/"
+  },
+  "18105978932528771": {
+   "name": "46-base-isolation",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/46-base-isolation.pdf",
+   "subject": "Let the ground move alone: how base isolation protects a stone building",
+   "title": "Let the ground move alone: how base isolation protects a stone building",
+   "date": "2026-10-29",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/46-base-isolation/"
   }
  },
  "list": [
+  {
+   "name": "46-base-isolation",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/46-base-isolation.pdf",
+   "subject": "Let the ground move alone: how base isolation protects a stone building",
+   "title": "Let the ground move alone: how base isolation protects a stone building",
+   "date": "2026-10-29",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/46-base-isolation/"
+  },
   {
    "name": "45-shah-muqarnas",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/45-shah-muqarnas.pdf",
@@ -346,12 +364,12 @@
   }
  ],
  "latest": {
-  "name": "45-shah-muqarnas",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/45-shah-muqarnas.pdf",
-  "subject": "Few pieces, strict rules: how muqarnas close a square into a dome",
-  "title": "Few pieces, strict rules: how muqarnas close a square into a dome",
+  "name": "46-base-isolation",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/46-base-isolation.pdf",
+  "subject": "Let the ground move alone: how base isolation protects a stone building",
+  "title": "Let the ground move alone: how base isolation protects a stone building",
   "date": "2026-10-29",
-  "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/45-shah-muqarnas/"
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/46-base-isolation/"
  }
 }

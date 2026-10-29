@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Let the ground move alone: how base isolation protects a stone building](46-base-isolation.pdf) · 2026-10-29
 - [Few pieces, strict rules: how muqarnas close a square into a dome](45-shah-muqarnas.pdf) · 2026-10-29
 - [Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof](44-notre-dame-scan.pdf) · 2026-10-28
 - [The weakest floor decides: how soft-story buildings fail, and how a steel frame fixes them](43-soft-story.pdf) · 2026-10-28
