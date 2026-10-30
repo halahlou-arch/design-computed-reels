@@ -188,9 +188,27 @@
    "date": "2026-10-30",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/47-prestress-bridge/"
+  },
+  "17894956653435882": {
+   "name": "48-machu-picchu-stones",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/48-machu-picchu-stones.pdf",
+   "subject": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
+   "title": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
+   "date": "2026-10-30",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/48-machu-picchu-stones/"
   }
  },
  "list": [
+  {
+   "name": "48-machu-picchu-stones",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/48-machu-picchu-stones.pdf",
+   "subject": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
+   "title": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
+   "date": "2026-10-30",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/48-machu-picchu-stones/"
+  },
   {
    "name": "47-prestress-bridge",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/47-prestress-bridge.pdf",
@@ -382,12 +400,12 @@
   }
  ],
  "latest": {
-  "name": "47-prestress-bridge",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/47-prestress-bridge.pdf",
-  "subject": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
-  "title": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+  "name": "48-machu-picchu-stones",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/48-machu-picchu-stones.pdf",
+  "subject": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
+  "title": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
   "date": "2026-10-30",
-  "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/47-prestress-bridge/"
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/48-machu-picchu-stones/"
  }
 }
