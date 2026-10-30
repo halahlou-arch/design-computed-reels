@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Squeeze it before it's loaded: how post-tensioning lets concrete span](47-prestress-bridge.pdf) · 2026-10-30
 - [Let the ground move alone: how base isolation protects a stone building](46-base-isolation.pdf) · 2026-10-29
 - [Few pieces, strict rules: how muqarnas close a square into a dome](45-shah-muqarnas.pdf) · 2026-10-29
 - [Record it before it's gone: how a laser scan helped rebuild Notre-Dame's roof](44-notre-dame-scan.pdf) · 2026-10-28

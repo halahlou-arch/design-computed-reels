@@ -179,9 +179,27 @@
    "date": "2026-10-29",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/46-base-isolation/"
+  },
+  "18108529297976055": {
+   "name": "47-prestress-bridge",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/47-prestress-bridge.pdf",
+   "subject": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+   "title": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+   "date": "2026-10-30",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/47-prestress-bridge/"
   }
  },
  "list": [
+  {
+   "name": "47-prestress-bridge",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/47-prestress-bridge.pdf",
+   "subject": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+   "title": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+   "date": "2026-10-30",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/47-prestress-bridge/"
+  },
   {
    "name": "46-base-isolation",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/46-base-isolation.pdf",
@@ -364,12 +382,12 @@
   }
  ],
  "latest": {
-  "name": "46-base-isolation",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/46-base-isolation.pdf",
-  "subject": "Let the ground move alone: how base isolation protects a stone building",
-  "title": "Let the ground move alone: how base isolation protects a stone building",
-  "date": "2026-10-29",
-  "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/46-base-isolation/"
+  "name": "47-prestress-bridge",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/47-prestress-bridge.pdf",
+  "subject": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+  "title": "Squeeze it before it's loaded: how post-tensioning lets concrete span",
+  "date": "2026-10-30",
+  "pages": 4,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/47-prestress-bridge/"
  }
 }
