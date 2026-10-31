@@ -197,9 +197,27 @@
    "date": "2026-10-30",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/48-machu-picchu-stones/"
+  },
+  "17881750974548108": {
+   "name": "49-tatami-rule",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/49-tatami-rule.pdf",
+   "subject": "Never four corners together: the tatami rule and the module behind a Japanese room",
+   "title": "Never four corners together: the tatami rule and the module behind a Japanese room",
+   "date": "2026-10-31",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/49-tatami-rule/"
   }
  },
  "list": [
+  {
+   "name": "49-tatami-rule",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/49-tatami-rule.pdf",
+   "subject": "Never four corners together: the tatami rule and the module behind a Japanese room",
+   "title": "Never four corners together: the tatami rule and the module behind a Japanese room",
+   "date": "2026-10-31",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/49-tatami-rule/"
+  },
   {
    "name": "48-machu-picchu-stones",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/48-machu-picchu-stones.pdf",
@@ -400,12 +418,12 @@
   }
  ],
  "latest": {
-  "name": "48-machu-picchu-stones",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/48-machu-picchu-stones.pdf",
-  "subject": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
-  "title": "Wide base, leaning in: how Inca dry-stone walls ride out earthquakes",
-  "date": "2026-10-30",
+  "name": "49-tatami-rule",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/49-tatami-rule.pdf",
+  "subject": "Never four corners together: the tatami rule and the module behind a Japanese room",
+  "title": "Never four corners together: the tatami rule and the module behind a Japanese room",
+  "date": "2026-10-31",
   "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/48-machu-picchu-stones/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/49-tatami-rule/"
  }
 }
