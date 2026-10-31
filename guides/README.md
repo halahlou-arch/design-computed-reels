@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Don't build the roof, hang it: the Colosseum's retractable sail roof](50-colosseum-sails.pdf) · 2026-10-31
 - [Never four corners together: the tatami rule and the module behind a Japanese room](49-tatami-rule.pdf) · 2026-10-31
 - [Wide base, leaning in: how Inca dry-stone walls ride out earthquakes](48-machu-picchu-stones.pdf) · 2026-10-30
 - [Squeeze it before it's loaded: how post-tensioning lets concrete span](47-prestress-bridge.pdf) · 2026-10-30

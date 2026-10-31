@@ -206,9 +206,27 @@
    "date": "2026-10-31",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/49-tatami-rule/"
+  },
+  "18126934384934517": {
+   "name": "50-colosseum-sails",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/50-colosseum-sails.pdf",
+   "subject": "Don't build the roof, hang it: the Colosseum's retractable sail roof",
+   "title": "Don't build the roof, hang it: the Colosseum's retractable sail roof",
+   "date": "2026-10-31",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/50-colosseum-sails/"
   }
  },
  "list": [
+  {
+   "name": "50-colosseum-sails",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/50-colosseum-sails.pdf",
+   "subject": "Don't build the roof, hang it: the Colosseum's retractable sail roof",
+   "title": "Don't build the roof, hang it: the Colosseum's retractable sail roof",
+   "date": "2026-10-31",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/50-colosseum-sails/"
+  },
   {
    "name": "49-tatami-rule",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/49-tatami-rule.pdf",
@@ -418,12 +436,12 @@
   }
  ],
  "latest": {
-  "name": "49-tatami-rule",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/49-tatami-rule.pdf",
-  "subject": "Never four corners together: the tatami rule and the module behind a Japanese room",
-  "title": "Never four corners together: the tatami rule and the module behind a Japanese room",
+  "name": "50-colosseum-sails",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/50-colosseum-sails.pdf",
+  "subject": "Don't build the roof, hang it: the Colosseum's retractable sail roof",
+  "title": "Don't build the roof, hang it: the Colosseum's retractable sail roof",
   "date": "2026-10-31",
   "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/49-tatami-rule/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/50-colosseum-sails/"
  }
 }
