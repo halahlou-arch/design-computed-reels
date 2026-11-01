@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Cut it so it locks: Japanese joinery and the world's oldest wooden building](52-horyuji-joints.pdf) · 2026-11-01
 - [Least wall, most room: why bees build hexagons, and the honeycomb theorem](51-honeycomb-hexagon.pdf) · 2026-11-01
 - [Don't build the roof, hang it: the Colosseum's retractable sail roof](50-colosseum-sails.pdf) · 2026-10-31
 - [Never four corners together: the tatami rule and the module behind a Japanese room](49-tatami-rule.pdf) · 2026-10-31

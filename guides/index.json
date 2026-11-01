@@ -224,9 +224,27 @@
    "date": "2026-11-01",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/51-honeycomb-hexagon/"
+  },
+  "18088727111299356": {
+   "name": "52-horyuji-joints",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/52-horyuji-joints.pdf",
+   "subject": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
+   "title": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
+   "date": "2026-11-01",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/52-horyuji-joints/"
   }
  },
  "list": [
+  {
+   "name": "52-horyuji-joints",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/52-horyuji-joints.pdf",
+   "subject": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
+   "title": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
+   "date": "2026-11-01",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/52-horyuji-joints/"
+  },
   {
    "name": "51-honeycomb-hexagon",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/51-honeycomb-hexagon.pdf",
@@ -454,12 +472,12 @@
   }
  ],
  "latest": {
-  "name": "51-honeycomb-hexagon",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/51-honeycomb-hexagon.pdf",
-  "subject": "Least wall, most room: why bees build hexagons, and the honeycomb theorem",
-  "title": "Least wall, most room: why bees build hexagons, and the honeycomb theorem",
+  "name": "52-horyuji-joints",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/52-horyuji-joints.pdf",
+  "subject": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
+  "title": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
   "date": "2026-11-01",
-  "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/51-honeycomb-hexagon/"
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/52-horyuji-joints/"
  }
 }
