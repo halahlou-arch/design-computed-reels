@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall](53-pont-du-gard-slope.pdf) · 2026-11-02
 - [Cut it so it locks: Japanese joinery and the world's oldest wooden building](52-horyuji-joints.pdf) · 2026-11-01
 - [Least wall, most room: why bees build hexagons, and the honeycomb theorem](51-honeycomb-hexagon.pdf) · 2026-11-01
 - [Don't build the roof, hang it: the Colosseum's retractable sail roof](50-colosseum-sails.pdf) · 2026-10-31

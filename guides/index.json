@@ -233,9 +233,27 @@
    "date": "2026-11-01",
    "pages": 3,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/52-horyuji-joints/"
+  },
+  "18416307853090419": {
+   "name": "53-pont-du-gard-slope",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/53-pont-du-gard-slope.pdf",
+   "subject": "A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall",
+   "title": "A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall",
+   "date": "2026-11-02",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/53-pont-du-gard-slope/"
   }
  },
  "list": [
+  {
+   "name": "53-pont-du-gard-slope",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/53-pont-du-gard-slope.pdf",
+   "subject": "A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall",
+   "title": "A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall",
+   "date": "2026-11-02",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/53-pont-du-gard-slope/"
+  },
   {
    "name": "52-horyuji-joints",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/52-horyuji-joints.pdf",
@@ -472,12 +490,12 @@
   }
  ],
  "latest": {
-  "name": "52-horyuji-joints",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/52-horyuji-joints.pdf",
-  "subject": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
-  "title": "Cut it so it locks: Japanese joinery and the world's oldest wooden building",
-  "date": "2026-11-01",
+  "name": "53-pont-du-gard-slope",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/53-pont-du-gard-slope.pdf",
+  "subject": "A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall",
+  "title": "A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall",
+  "date": "2026-11-02",
   "pages": 3,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/52-horyuji-joints/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/53-pont-du-gard-slope/"
  }
 }
