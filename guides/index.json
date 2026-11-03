@@ -260,9 +260,27 @@
    "date": "2026-11-03",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/55-forth-human-cantilever/"
+  },
+  "17945905437090344": {
+   "name": "56-stonehenge-joints",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/56-stonehenge-joints.pdf",
+   "subject": "Borrow joints from wood: how Stonehenge's stones lock together",
+   "title": "Borrow joints from wood: how Stonehenge's stones lock together",
+   "date": "2026-11-03",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/56-stonehenge-joints/"
   }
  },
  "list": [
+  {
+   "name": "56-stonehenge-joints",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/56-stonehenge-joints.pdf",
+   "subject": "Borrow joints from wood: how Stonehenge's stones lock together",
+   "title": "Borrow joints from wood: how Stonehenge's stones lock together",
+   "date": "2026-11-03",
+   "pages": 3,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/56-stonehenge-joints/"
+  },
   {
    "name": "55-forth-human-cantilever",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/55-forth-human-cantilever.pdf",
@@ -526,12 +544,12 @@
   }
  ],
  "latest": {
-  "name": "55-forth-human-cantilever",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/55-forth-human-cantilever.pdf",
-  "subject": "Make people feel the forces: the human cantilever and the Forth Bridge",
-  "title": "Make people feel the forces: the human cantilever and the Forth Bridge",
+  "name": "56-stonehenge-joints",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/56-stonehenge-joints.pdf",
+  "subject": "Borrow joints from wood: how Stonehenge's stones lock together",
+  "title": "Borrow joints from wood: how Stonehenge's stones lock together",
   "date": "2026-11-03",
-  "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/55-forth-human-cantilever/"
+  "pages": 3,
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/56-stonehenge-joints/"
  }
 }

@@ -2,6 +2,7 @@
 
 Comment **GUIDE** under any reel of @designcomputed to get its guide by DM.
 
+- [Borrow joints from wood: how Stonehenge's stones lock together](56-stonehenge-joints.pdf) · 2026-11-03
 - [Make people feel the forces: the human cantilever and the Forth Bridge](55-forth-human-cantilever.pdf) · 2026-11-03
 - [Fill the corner, don't fight it: how pendentives put a dome on a square](54-hagia-sophia-pendentives.pdf) · 2026-11-02
 - [A gentle slope carries far: how the Pont du Gard moved water 50 km on a one-inch fall](53-pont-du-gard-slope.pdf) · 2026-11-02
