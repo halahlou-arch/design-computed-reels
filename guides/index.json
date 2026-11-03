@@ -251,9 +251,27 @@
    "date": "2026-11-02",
    "pages": 4,
    "page": "https://halahlou-arch.github.io/design-computed-reels/guides/54-hagia-sophia-pendentives/"
+  },
+  "17876680674593301": {
+   "name": "55-forth-human-cantilever",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/55-forth-human-cantilever.pdf",
+   "subject": "Make people feel the forces: the human cantilever and the Forth Bridge",
+   "title": "Make people feel the forces: the human cantilever and the Forth Bridge",
+   "date": "2026-11-03",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/55-forth-human-cantilever/"
   }
  },
  "list": [
+  {
+   "name": "55-forth-human-cantilever",
+   "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/55-forth-human-cantilever.pdf",
+   "subject": "Make people feel the forces: the human cantilever and the Forth Bridge",
+   "title": "Make people feel the forces: the human cantilever and the Forth Bridge",
+   "date": "2026-11-03",
+   "pages": 4,
+   "page": "https://halahlou-arch.github.io/design-computed-reels/guides/55-forth-human-cantilever/"
+  },
   {
    "name": "54-hagia-sophia-pendentives",
    "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/54-hagia-sophia-pendentives.pdf",
@@ -508,12 +526,12 @@
   }
  ],
  "latest": {
-  "name": "54-hagia-sophia-pendentives",
-  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/54-hagia-sophia-pendentives.pdf",
-  "subject": "Fill the corner, don't fight it: how pendentives put a dome on a square",
-  "title": "Fill the corner, don't fight it: how pendentives put a dome on a square",
-  "date": "2026-11-02",
+  "name": "55-forth-human-cantilever",
+  "url": "https://github.com/halahlou-arch/design-computed-reels/blob/main/guides/55-forth-human-cantilever.pdf",
+  "subject": "Make people feel the forces: the human cantilever and the Forth Bridge",
+  "title": "Make people feel the forces: the human cantilever and the Forth Bridge",
+  "date": "2026-11-03",
   "pages": 4,
-  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/54-hagia-sophia-pendentives/"
+  "page": "https://halahlou-arch.github.io/design-computed-reels/guides/55-forth-human-cantilever/"
  }
 }
